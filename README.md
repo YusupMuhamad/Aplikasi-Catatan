@@ -36,7 +36,7 @@ flutter pub get
 ```
 flutter run
 ```
-5. Atau download pada halaman Realese
+5. Atau unduh pada halaman Realese
 
 ## Screenshot Aplikasi
 
