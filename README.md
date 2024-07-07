@@ -33,7 +33,7 @@ cd Aplikasi-Catatan
 flutter pub get
 ```
 4. Jalankan aplikasi.
-```
+```bash
 flutter run
 ```
 5. Atau unduh pada halaman Realese
