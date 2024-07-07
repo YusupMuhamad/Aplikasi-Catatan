@@ -39,6 +39,17 @@ flutter run
 5. Atau unduh pada halaman Realese
 
 ## Screenshot Aplikasi
+<div style="display: flex; justify-content: center;">
+    <img width="250px" src="assets/mockup/Daftar.png" alt="Tampilan Daftar" />
+    <img width="250px" src="assets/mockup/Gridview.png" alt="Tampilan Gridview" />
+    <img width="250px" src="assets/mockup/HalamanAkun.png" alt="Tampilan Halaman Utama" />
+    <img width="250px" src="assets/mockup/Listview.png" alt="Tampilan List View" />
+    <img width="250px" src="assets/mockup/Login.png" alt="Tampilan Login" />
+    <img width="250px" src="assets/mockup/Pengaturan.png" alt="Tampilan Pengaturan" />
+    <img width="250px" src="assets/mockup/Tambah Catatan.png" alt="Tampilan Tambah Catatan" />
+    <img width="250px" src="assets/mockup/Tema.png" alt="Tampilan Pengaturan Tema" />
+</div>
+
 
 ## Kelompok 2
 - Yusup Muhamad (2106044)
