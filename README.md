@@ -36,7 +36,7 @@ flutter pub get
 ```bash
 flutter run
 ```
-5. Atau unduh pada halaman Realese
+5. Atau unduh pada halaman Releases
 
 ## Screenshot Aplikasi
 <div style="display: flex; justify-content: center;">
