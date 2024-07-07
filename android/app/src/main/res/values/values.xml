@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="google_app_id">1:969105839044:android:26b56fe41eff7a101eca91</string>
+        <string name="gcm_defaultSenderId">969105839044</string>
+        <string name="default_web_client_id">NOT_USED</string>
+        <string name="firebase_database_url">https://noteapp-83df5.firebaseio.com</string>
+        <string name="google_api_key">AIzaSyCf0oCuuO6N0uapXVk5YY_gY8vBBZltZAM</string>
+        <string name="google_crash_reporting_api_key">AIzaSyCf0oCuuO6N0uapXVk5YY_gY8vBBZltZAM</string>
+        <string name="project_id">noteapp-83df5</string>
+    </resources>
